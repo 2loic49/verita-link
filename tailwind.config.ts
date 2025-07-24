@@ -52,6 +52,24 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				institutional: {
+					header: 'hsl(var(--institutional-header))'
+				},
+				success: {
+					bg: 'hsl(var(--success-bg))',
+					border: 'hsl(var(--success-border))'
+				},
+				error: {
+					bg: 'hsl(var(--error-bg))',
+					border: 'hsl(var(--error-border))'
+				},
+				watermark: 'hsl(var(--watermark))',
+				table: {
+					bg: 'hsl(var(--table-bg))'
+				},
+				verified: {
+					bg: 'hsl(var(--verified-bg))'
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
