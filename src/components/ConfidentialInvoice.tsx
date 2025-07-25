@@ -53,7 +53,7 @@ const ConfidentialInvoice = () => {
                 </div>
                 <div className="flex justify-between items-center py-3 border-b border-border">
                   <span className="font-medium opacity-80">Email:</span> 
-                  <span className="font-semibold">estefaescadelgado93@gmail.com</span>
+                  <span className="font-semibold">domingosvaz1947@gmail.com</span>
                 </div>
                 <div className="flex justify-between items-center py-3 border-b border-border">
                   <span className="font-medium opacity-80">Telefone:</span> 
